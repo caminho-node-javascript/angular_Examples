@@ -1,4 +1,4 @@
-# Angular 2+ Examples
+# Angular 2+ observable
 
 ## [Get Angular Mastery Course ](http://kck.st/2p3nNAL) ##
 
